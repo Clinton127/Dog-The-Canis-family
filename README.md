@@ -1,13 +1,4 @@
-# Dog-The-Canis-family
-<body>
-
-<head>
-  
-  <title>Dogs</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1" >
-  <link href="style.css" rel="stylesheet">
-</head>
-</body>
+# Dog-The-Canis-family 
   <!DOCTYPE html>
 
 <html>
