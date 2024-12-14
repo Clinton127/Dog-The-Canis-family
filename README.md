@@ -89,5 +89,9 @@ Due to their high-maintenance exercise and mental stimulation needs, German shor
 German shorthaired pointers tend to be a vocal breed and will often bark and whine to get attention. Skin and ear infections, as well as eye diseases have also been noted as troublesome issues for the breed.
 <a href="https://www.forbes.com/advisor/pet-insurance/pet-care/popular-dog-breeds/" target="_blank">Learn More</a>
 <p>Those above are the top 10 most popular dog breeds in the world.</p>
+<table>
+  <td>origin</td>
+  <td>japan</td>
+</table>
 </body>
 </html>
